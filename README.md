@@ -11,6 +11,7 @@ The second screenshot shows with the hour starting and the present time being re
 The third screenshot shows all three time colors being displayed.
 ![alt text](screenshot1.png)
 ![alt text](screenshot2.png)
+![alt text](screenshot3.png)
 
 
 ## Credits
